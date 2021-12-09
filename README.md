@@ -14,7 +14,7 @@ We are targeting at providing a high adaptive solution to all tech/non-tech user
 
 #### Architecture
 
-![](https://github.com/Moehringen/Storage/blob/main/Polka-Analytics.png)
+![](https://github.com/Moehringen/Storage/blob/main/Web3Go.png)
 
 ----------------------
 Our Website: https://web3go.xyz/#/
