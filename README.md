@@ -11,3 +11,28 @@ At Web3Go we are building the open data-analysis platform of the Polkadot ecosys
 2. As a Web3Go community member (the “Data Producer”), I want to be rewarded for solving data analysis requests raised by the Data Consumer through the use of Web3Go’s data toolset in order to keep engagement with the platform and provide the best possible quality.
 
 We are targeting at providing a high adaptive solution to all tech/non-tech users, making all communities in polkadot eco system capable of exploiting their valuable insight from data. Such solution includes but not limited to constant indexer service implementation adapted to parachains' change, on-chain DID database for extension of cross-chain data analysis, toolset for quick aggregation of data analysis result and so on.
+
+#### Architecture
+
+![](https://github.com/Moehringen/Storage/blob/main/Polka-Analytics.png)
+
+----------------------
+Our Website: https://web3go.xyz/#/
+
+This repo holds comprehensive logic handler based on raw data feed from indexer
+https://github.com/web3go-xyz/web3go
+
+This repo holds the documentation of toolset for quick aggregation of data analysis result
+https://github.com/web3go-xyz/docs
+
+This repo holds the front end code
+https://github.com/web3go-xyz/portal-ui-h5
+
+This repo holds the implementation of Kusama/Polkadot parachain indexer
+https://github.com/web3go-xyz/Crowdloan-Indexer
+
+This repo holds the implementation of Moonriver parachain indexer
+https://github.com/web3go-xyz/moonriver-indexer
+
+This repo holds the implementation of Karura parachain indexer
+https://github.com/web3go-xyz/Acala-Indexer
